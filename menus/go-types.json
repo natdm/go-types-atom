@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle go-types",
+        "command": "go-types:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "go-types",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "go-types:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
