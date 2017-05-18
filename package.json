@@ -1,20 +1,20 @@
 {
-  "name": "go-types",
-  "main": "./lib/go-types",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "go-types:toggle"
-  },
-  "repository": "https://github.com/atom/go-types",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
-  }
+    "name": "go-types",
+    "main": "./lib/go-types",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": "go-types:toggle"
+    },
+    "repository": "https://github.com/atom/go-types",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.18.0 <2.0.0"
+    },
+    "dependencies": {
+        "prop-types": "^15.5.10",
+        "react": "^15.5.4",
+        "react-dom": "^15.5.4"
+    }
 }
