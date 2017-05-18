@@ -1,13 +1,13 @@
 {
     "name": "go-types",
     "main": "./lib/go-types",
-    "version": "0.0.0",
-    "description": "A short description of your package",
+    "version": "0.1.0",
+    "description": "View all Go types for currently active file",
     "keywords": [],
     "activationCommands": {
         "atom-workspace": "go-types:toggle"
     },
-    "repository": "https://github.com/atom/go-types",
+    "repository": "https://github.com/natdm/go-types-atom",
     "license": "MIT",
     "engines": {
         "atom": ">=1.18.0 <2.0.0"
