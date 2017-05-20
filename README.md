@@ -6,9 +6,4 @@ Click `Switch` to switch between listing by line number and listing by line numb
 
 Open with `option-ctrl-o`
 
-Requires [GoTypelist](http://github.com/natdm/go-typelist) to be downloaded and in your path.
-
-To download: `go get github.com/natdm/go-typelist/.../`
-
-
 ![A screenshot of your package](https://media.giphy.com/media/Cgjxt8ipVtmvu/giphy.gif)
