@@ -1,7 +1,7 @@
 {
   "name": "go-types",
   "main": "./lib/go-types",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "View all Go types for currently active file",
   "keywords": [],
   "activationCommands": {
